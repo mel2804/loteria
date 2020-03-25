@@ -12,11 +12,11 @@ var guardarp = []
 var guardart = []
 
 function ganaste() {
-	alert("Ya gano, supongo que aqui es donde pones que sigue no? jaja");
+	alert("Ganaste :3");
 }
 
 function perdiste() {
-	alert("Ya perdio :c, supongo que aqui es donde pones que sigue no? jaja");
+	alert("Perdiste :c");
 }
 
 function cargarImg() {
